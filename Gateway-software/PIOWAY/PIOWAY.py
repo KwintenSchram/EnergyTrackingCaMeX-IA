@@ -2,8 +2,6 @@
 #
 # Copyright (c) 2015-2021 University of Antwerp, Aloxy NV.
 #
-# This file is part of pyd7a.
-# See https://github.com/Sub-IoT/pyd7a for further info.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
